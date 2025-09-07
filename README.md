@@ -7,7 +7,7 @@ A lightweight **Python port scanner** that checks whether specific ports are ope
 -  Interactive input for custom port selection  
 - Detects and displays **open vs closed ports**  
 - Automatically shows your **device hostname and IP address**  
-- Simple and clean code — perfect for beginners  
+- Simple and clean code
 
 ---
 ## How it works?
